@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="hello_msg">Hello from string.xml</string>
+    <string name="button_text">Click Me</string>
+    <string name="text_name">Name</string>
+    <string name="text_javatext">text from java code</string>
+    <string name="tyt">yytj</string>
+    <string name="buttn_sendq">send</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
